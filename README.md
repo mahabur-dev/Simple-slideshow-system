@@ -5,3 +5,8 @@ Simple slideshow create html css javascript
 > opttion 1
 > option 2
 > option 3
+
+1. Clone the repo
+   ```bash
+   git clone https://github.com/yourusername/project.git
+   cd project
