@@ -20,3 +20,6 @@ Simple slideshow create html css javascript
    ```bash
    git clone https://github.com/yourusername/project.git
    cd project
+
+## data
+- Mahabur
