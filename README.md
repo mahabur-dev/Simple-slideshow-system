@@ -6,7 +6,7 @@ Simple slideshow create html css javascript
 > option 2
 > option 3
 
-1. Clone the repo
+# 1. Clone the repo
    ```bash
    git clone https://github.com/yourusername/project.git
    cd project
